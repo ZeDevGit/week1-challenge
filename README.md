@@ -45,6 +45,6 @@ Edward Lawrence
 ## Project URL and Repository Link
 
 ```
-URL - 
-Repo - [https://github.com/ZeDevGit/week1-challenge](https://github.com/ZeDevGit/week1-challenge)
+URL - https://zedevgit.github.io/week1-challenge/
+Repo - https://github.com/ZeDevGit/week1-challenge
 ```
