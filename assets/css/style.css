@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header element is used as the navigation bar and contains a title and three separate links*/
+/* Each CSS header element property affects each piece appropriately */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* Banner images uses a <figure> tag and is sized with the image used as the elements background */
+
 figure {
     height: 800px;
     width: 100%;
@@ -68,6 +73,8 @@ figure {
     float: right;
     margin-left: 25px;
 }
+
+/* Main section is used for descriptions of each of the clients services */
 
 main {
     width: 75%;
@@ -88,6 +95,8 @@ main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* The <aside> tag is used for a sidebar containing a bit more information on client's services */
 
 aside {
     margin-right: 20px;
